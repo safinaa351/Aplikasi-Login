@@ -9,6 +9,7 @@ const loginFormElement = document.querySelector('#loginForm');
 const inputEmailElement = document.querySelector('#inputEmail');
 const inputPasswordElement = document.querySelector('#inputPassword');
 
+//memasukan email dan password sementara
 const expectedEmail = 'admin@dicoding.com';
 const expectedPassword = 'superpassword';
 
